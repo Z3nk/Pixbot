@@ -1,0 +1,7 @@
+C:\Dev\C# .NET\PixBot\PixConsole\bin\Release\PixConsole.exe
+C:\Dev\C# .NET\PixBot\PixConsole\bin\Release\PixConsole.pdb
+C:\Dev\C# .NET\PixBot\PixConsole\bin\Release\PixTools.dll
+C:\Dev\C# .NET\PixBot\PixConsole\bin\Release\PixTools.pdb
+C:\Dev\C# .NET\PixBot\PixConsole\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dev\C# .NET\PixBot\PixConsole\obj\x86\Release\PixConsole.exe
+C:\Dev\C# .NET\PixBot\PixConsole\obj\x86\Release\PixConsole.pdb

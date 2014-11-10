@@ -1,0 +1,5 @@
+C:\Dev\C# .NET\PixBot\PixTools\bin\Debug\PixTools.dll
+C:\Dev\C# .NET\PixBot\PixTools\bin\Debug\PixTools.pdb
+C:\Dev\C# .NET\PixBot\PixTools\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\C# .NET\PixBot\PixTools\obj\Debug\PixTools.dll
+C:\Dev\C# .NET\PixBot\PixTools\obj\Debug\PixTools.pdb

@@ -1,0 +1,5 @@
+C:\Dev\C# .NET\PixBot\Hook\bin\Release\Hook.dll
+C:\Dev\C# .NET\PixBot\Hook\bin\Release\Hook.pdb
+C:\Dev\C# .NET\PixBot\Hook\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\C# .NET\PixBot\Hook\obj\Release\Hook.dll
+C:\Dev\C# .NET\PixBot\Hook\obj\Release\Hook.pdb
